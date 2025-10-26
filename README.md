@@ -4,9 +4,9 @@ Workflows and snippets I've built to automate repetitive tasks across UiPath and
 
 ## What's Inside
 
-**UiPath** – RPA workflows for desktop automation, data processing, and system integrations
+**UiPath** - RPA workflows for desktop automation, data processing, and system integrations
 
-**n8n** – API-based workflows for connecting tools, processing webhooks, and handling scheduled tasks
+**n8n** - API-based workflows for connecting tools, processing webhooks, and handling scheduled tasks
 
 ## Usage
 
