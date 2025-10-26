@@ -24,4 +24,4 @@ Dependencies and framework versions are specified in each workflow's `project.js
 
 ## Notes
 
-Not all workflows are heavily commented. The folder names and activity sequences should give you enough context to understand what's happening. Adapt as needed for your use case.
+Not all workflows are heavily commented, these are reference snippets I've used along the way. The folder names and activity sequences should give enough context to understand what's happening. Adapt as needed for your use case.
