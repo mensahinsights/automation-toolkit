@@ -1,6 +1,6 @@
 # UiPath Workflows
 
-RPA automations for desktop tasks, data processing, and Excel operations.
+RPA automations for desktop or orchestrator tasks, data processing, and Excel operations.
 
 ## What's Here
 
